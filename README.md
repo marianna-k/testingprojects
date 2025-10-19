@@ -4,6 +4,6 @@
 
 ### 🌐 Testing is performed in the following websites:
 
-- Rahul Shetty Academy – Locators Practice:  https://rahulshettyacademy.com/locatorspractice  (here is also used the ExtentReports)
-- Tutorialsninja - https://tutorialsninja.com/demo (to perform simple tasks like writing in the search area, locating a product, adjust the product quantity)
-- and DemoQa : https://demoqa.com   (to perform some tasks like filling in a form, clicking on modals)
+- Rahul Shetty Academy – Locators Practice:  https://rahulshettyacademy.com/locatorspractice  (using ExtentReports)
+- Tutorialsninja - https://tutorialsninja.com/demo (Covers tasks such as searching for products, locating elements, and adjusting product quantities)
+- and DemoQa : https://demoqa.com   (Includes form submission, modal dialog interactions)
